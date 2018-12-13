@@ -1,0 +1,14 @@
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\obj\Debug\netcoreapp2.0\Combat.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\obj\Debug\netcoreapp2.0\Combat.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\obj\Debug\netcoreapp2.0\Combat.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\obj\Debug\netcoreapp2.0\Combat.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\bin\Debug\netcoreapp2.0\Combat.deps.json
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\bin\Debug\netcoreapp2.0\Combat.dll
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\bin\Debug\netcoreapp2.0\Combat.pdb
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\bin\Debug\netcoreapp2.0\GameData.dll
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\bin\Debug\netcoreapp2.0\Screens.dll
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\bin\Debug\netcoreapp2.0\GameData.pdb
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\bin\Debug\netcoreapp2.0\Screens.pdb
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\obj\Debug\netcoreapp2.0\Combat.csproj.CopyComplete
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\obj\Debug\netcoreapp2.0\Combat.dll
+C:\Users\Bruno\source\repos\BudasevoQuest\Combat\obj\Debug\netcoreapp2.0\Combat.pdb

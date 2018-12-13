@@ -1,0 +1,8 @@
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\bin\Debug\net452\GameData.dll
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\bin\Debug\net452\GameData.pdb
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\net452\GameData.csprojAssemblyReference.cache
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\net452\GameData.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\net452\GameData.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\net452\GameData.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\net452\GameData.dll
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\net452\GameData.pdb

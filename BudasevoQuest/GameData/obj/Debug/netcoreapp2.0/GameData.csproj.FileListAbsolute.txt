@@ -1,0 +1,9 @@
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\netcoreapp2.0\GameData.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\netcoreapp2.0\GameData.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\netcoreapp2.0\GameData.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\bin\Debug\netcoreapp2.0\GameData.deps.json
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\bin\Debug\netcoreapp2.0\GameData.dll
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\bin\Debug\netcoreapp2.0\GameData.pdb
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\netcoreapp2.0\GameData.dll
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\netcoreapp2.0\GameData.pdb
+C:\Users\Bruno\source\repos\BudasevoQuest\GameData\obj\Debug\netcoreapp2.0\GameData.csprojAssemblyReference.cache

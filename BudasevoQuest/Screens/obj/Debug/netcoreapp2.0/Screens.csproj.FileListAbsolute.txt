@@ -1,0 +1,9 @@
+C:\Users\Bruno\source\repos\BudasevoQuest\Screens\bin\Debug\netcoreapp2.0\Screens.deps.json
+C:\Users\Bruno\source\repos\BudasevoQuest\Screens\bin\Debug\netcoreapp2.0\Screens.dll
+C:\Users\Bruno\source\repos\BudasevoQuest\Screens\bin\Debug\netcoreapp2.0\Screens.pdb
+C:\Users\Bruno\source\repos\BudasevoQuest\Screens\obj\Debug\netcoreapp2.0\Screens.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\source\repos\BudasevoQuest\Screens\obj\Debug\netcoreapp2.0\Screens.AssemblyInfoInputs.cache
+C:\Users\Bruno\source\repos\BudasevoQuest\Screens\obj\Debug\netcoreapp2.0\Screens.AssemblyInfo.cs
+C:\Users\Bruno\source\repos\BudasevoQuest\Screens\obj\Debug\netcoreapp2.0\Screens.dll
+C:\Users\Bruno\source\repos\BudasevoQuest\Screens\obj\Debug\netcoreapp2.0\Screens.pdb
+C:\Users\Bruno\source\repos\BudasevoQuest\Screens\obj\Debug\netcoreapp2.0\Screens.csprojAssemblyReference.cache
