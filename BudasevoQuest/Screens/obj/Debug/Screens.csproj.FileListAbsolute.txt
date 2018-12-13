@@ -1,0 +1,6 @@
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\bin\Debug\Screens.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\bin\Debug\Screens.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\Screens.csprojAssemblyReference.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\Screens.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\Screens.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\Screens.pdb

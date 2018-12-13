@@ -6,29 +6,11 @@ using System.Threading.Tasks;
 
 namespace Screens
 {
-    class MainMenu : Screen
+    public class MainMenu : Screen
     {
-        public override void PickOptions()
+        protected override void InitializeScreen()
         {
-            throw new NotImplementedException();
+            Console.WriteLine("----------------------------------------This is main menu screen----------------------------------------");
         }
-
-        public override void ScreenLoad()
-        {
-            Console.WriteLine("/////////////////////////////////////////////////////////////////");
-            Console.WriteLine("//////                                                   ////////");
-            Console.WriteLine("//////                                                   ////////");
-            Console.WriteLine("//////       THIS IS BUDASEVO, YOU CAN'T ESCAPE NOW      ////////");
-            Console.WriteLine("//////                                                   ////////");
-            Console.WriteLine("//////              1 - Start Game                       ////////");
-            Console.WriteLine("//////              2 - Credits                          ////////");
-            Console.WriteLine("//////              3 - Exit                             ////////");
-            Console.WriteLine("//////                                                   ////////");
-            Console.WriteLine("//////                                                   ////////");
-            Console.WriteLine("/////////////////////////////////////////////////////////////////");
-            Console.WriteLine("/////////////////////////////////////////////////////////////////");
-        }
-
-        MainMenu() : base() { }
     }
 }

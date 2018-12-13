@@ -1,0 +1,9 @@
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\GameCore.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\GameCore.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\Screens.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\Screens.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\obj\Debug\GameCore.csprojAssemblyReference.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\obj\Debug\GameCore.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\obj\Debug\GameCore.csproj.CopyComplete
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\obj\Debug\GameCore.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\obj\Debug\GameCore.pdb

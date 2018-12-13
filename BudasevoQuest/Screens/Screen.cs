@@ -8,28 +8,18 @@ namespace Screens
 {
     public abstract class Screen
     {
-        abstract public void ScreenLoad();
-        abstract public void PickOptions();
+        public static ScreenController controller = new ScreenController();
 
-        protected static ScreenControl controller = new ScreenControl();
+        protected abstract void InitializeScreen();
 
-        protected Screen()
+        internal void OnEnter()
         {
+            InitializeScreen();
         }
 
-        public void OnEnter()
-        {
-
-        }
-
-        public void OnExit()
+        internal void OnExit()
         {
             Console.Clear();
         }
     }
 }
-
-
-
-
-

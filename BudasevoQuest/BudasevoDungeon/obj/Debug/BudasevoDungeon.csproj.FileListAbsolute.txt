@@ -1,0 +1,12 @@
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\bin\Debug\BudasevoDungeon.exe.config
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\bin\Debug\BudasevoDungeon.exe
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\bin\Debug\BudasevoDungeon.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\bin\Debug\GameCore.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\bin\Debug\Screens.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\bin\Debug\GameCore.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\bin\Debug\Screens.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\obj\Debug\BudasevoDungeon.csprojAssemblyReference.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\obj\Debug\BudasevoDungeon.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\obj\Debug\BudasevoDungeon.csproj.CopyComplete
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\obj\Debug\BudasevoDungeon.exe
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\obj\Debug\BudasevoDungeon.pdb

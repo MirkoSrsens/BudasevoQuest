@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudasevoDungeon", "BudasevoDungeon\BudasevoDungeon.csproj", "{DDC2E99D-FEE0-43B5-A79B-69680E0721C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screens", "Screens\Screens.csproj", "{8E344245-D921-4C36-B14E-0C212BDDAD80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCore", "GameCore\GameCore.csproj", "{A0841EEA-DA2B-41E7-9301-914BE727AD49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDC2E99D-FEE0-43B5-A79B-69680E0721C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDC2E99D-FEE0-43B5-A79B-69680E0721C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDC2E99D-FEE0-43B5-A79B-69680E0721C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDC2E99D-FEE0-43B5-A79B-69680E0721C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E344245-D921-4C36-B14E-0C212BDDAD80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E344245-D921-4C36-B14E-0C212BDDAD80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E344245-D921-4C36-B14E-0C212BDDAD80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E344245-D921-4C36-B14E-0C212BDDAD80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0841EEA-DA2B-41E7-9301-914BE727AD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0841EEA-DA2B-41E7-9301-914BE727AD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0841EEA-DA2B-41E7-9301-914BE727AD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0841EEA-DA2B-41E7-9301-914BE727AD49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5BF4D7E-A624-4AC8-8D5F-4C5050B79AEB}
+	EndGlobalSection
+EndGlobal
