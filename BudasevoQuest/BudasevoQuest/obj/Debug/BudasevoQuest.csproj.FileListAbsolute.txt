@@ -8,3 +8,13 @@ C:\Users\Bruno\source\repos\BudasevoQuest\BudasevoQuest\bin\Debug\InputManager.p
 C:\Users\Bruno\source\repos\BudasevoQuest\BudasevoQuest\obj\Debug\BudasevoQuest.csproj.CopyComplete
 C:\Users\Bruno\source\repos\BudasevoQuest\BudasevoQuest\obj\Debug\BudasevoQuest.exe
 C:\Users\Bruno\source\repos\BudasevoQuest\BudasevoQuest\obj\Debug\BudasevoQuest.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoQuest\bin\Debug\BudasevoQuest.exe.config
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoQuest\bin\Debug\BudasevoQuest.exe
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoQuest\bin\Debug\BudasevoQuest.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoQuest\bin\Debug\InputManager.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoQuest\bin\Debug\InputManager.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoQuest\obj\Debug\BudasevoQuest.csprojAssemblyReference.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoQuest\obj\Debug\BudasevoQuest.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoQuest\obj\Debug\BudasevoQuest.csproj.CopyComplete
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoQuest\obj\Debug\BudasevoQuest.exe
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoQuest\obj\Debug\BudasevoQuest.pdb

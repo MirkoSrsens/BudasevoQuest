@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Screens
 {
-    class Combat : Screen
+    public class Combat : Screen
     {
         public override void PickOptions()
         {
@@ -24,7 +24,7 @@ namespace Screens
             Console.WriteLine("/////////////////////////////////////////////////////////////////");
         }
 
-        Combat() : base() { }
+        public Combat() : base() { }
 
     }
 }

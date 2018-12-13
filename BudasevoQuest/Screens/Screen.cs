@@ -11,7 +11,18 @@ namespace Screens
         abstract public void ScreenLoad();
         abstract public void PickOptions();
 
+        protected static ScreenControl controller = new ScreenControl();
+
         protected Screen()
+        {
+        }
+
+        public void OnEnter()
+        {
+
+        }
+
+        public void OnExit()
         {
             Console.Clear();
         }

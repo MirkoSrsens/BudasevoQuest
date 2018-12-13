@@ -6,3 +6,11 @@ C:\Users\Bruno\source\repos\BudasevoQuest\Screens\obj\Debug\net452\Screens.Assem
 C:\Users\Bruno\source\repos\BudasevoQuest\Screens\obj\Debug\net452\Screens.AssemblyInfo.cs
 C:\Users\Bruno\source\repos\BudasevoQuest\Screens\obj\Debug\net452\Screens.dll
 C:\Users\Bruno\source\repos\BudasevoQuest\Screens\obj\Debug\net452\Screens.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\bin\Debug\net452\Screens.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\bin\Debug\net452\Screens.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\net452\Screens.csprojAssemblyReference.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\net452\Screens.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\net452\Screens.AssemblyInfoInputs.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\net452\Screens.AssemblyInfo.cs
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\net452\Screens.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\net452\Screens.pdb

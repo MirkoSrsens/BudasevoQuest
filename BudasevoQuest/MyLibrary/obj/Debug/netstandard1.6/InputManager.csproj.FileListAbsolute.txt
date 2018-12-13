@@ -7,3 +7,12 @@ C:\Users\Bruno\source\repos\BudasevoQuest\MyLibrary\obj\Debug\netstandard1.6\Inp
 C:\Users\Bruno\source\repos\BudasevoQuest\MyLibrary\obj\Debug\netstandard1.6\InputManager.AssemblyInfo.cs
 C:\Users\Bruno\source\repos\BudasevoQuest\MyLibrary\obj\Debug\netstandard1.6\InputManager.dll
 C:\Users\Bruno\source\repos\BudasevoQuest\MyLibrary\obj\Debug\netstandard1.6\InputManager.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\MyLibrary\bin\Debug\netstandard1.6\InputManager.deps.json
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\MyLibrary\bin\Debug\netstandard1.6\InputManager.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\MyLibrary\bin\Debug\netstandard1.6\InputManager.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\MyLibrary\obj\Debug\netstandard1.6\InputManager.csprojAssemblyReference.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\MyLibrary\obj\Debug\netstandard1.6\InputManager.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\MyLibrary\obj\Debug\netstandard1.6\InputManager.AssemblyInfoInputs.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\MyLibrary\obj\Debug\netstandard1.6\InputManager.AssemblyInfo.cs
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\MyLibrary\obj\Debug\netstandard1.6\InputManager.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\MyLibrary\obj\Debug\netstandard1.6\InputManager.pdb

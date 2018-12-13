@@ -12,9 +12,7 @@ namespace BudasevoQuest
     {
         static void Main(string[] args)
         {
-            var input = Console.ReadKey();
-
-            var inputData = new InputData();
+           
         }
     }
 }

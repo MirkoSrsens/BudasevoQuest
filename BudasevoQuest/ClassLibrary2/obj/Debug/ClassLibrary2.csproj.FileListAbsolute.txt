@@ -1,6 +1,0 @@
-C:\Users\Bruno\source\repos\BudasevoQuest\ClassLibrary2\bin\Debug\ClassLibrary2.dll
-C:\Users\Bruno\source\repos\BudasevoQuest\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
-C:\Users\Bruno\source\repos\BudasevoQuest\ClassLibrary2\obj\Debug\ClassLibrary2.csprojAssemblyReference.cache
-C:\Users\Bruno\source\repos\BudasevoQuest\ClassLibrary2\obj\Debug\ClassLibrary2.csproj.CoreCompileInputs.cache
-C:\Users\Bruno\source\repos\BudasevoQuest\ClassLibrary2\obj\Debug\ClassLibrary2.dll
-C:\Users\Bruno\source\repos\BudasevoQuest\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
