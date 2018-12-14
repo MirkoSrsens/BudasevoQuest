@@ -49,8 +49,8 @@
       <Project>{8E344245-D921-4C36-B14E-0C212BDDAD80}</Project>
       <Name>Screens</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Settings1\Settings.csproj">
-      <Project>{d9422aa8-8298-4cc2-95a6-274ed8daff95}</Project>
+    <ProjectReference Include="..\Settings\Settings.csproj">
+      <Project>{D9422AA8-8298-4CC2-95A6-274ED8DAFF95}</Project>
       <Name>Settings</Name>
     </ProjectReference>
   </ItemGroup>

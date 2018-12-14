@@ -4,16 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using GameCore;
+using Settings;
 
 namespace BudasevoDungeon
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
-            var gameInitializor = new GameInitializor();
-            gameInitializor.StartGame();
-            Console.ReadKey();
+            var game = new GameInitializor();
+
+            game.StartGame();
         }
     }
 }

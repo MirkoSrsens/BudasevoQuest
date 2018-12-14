@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Settings
@@ -8,7 +9,6 @@ namespace Settings
     public class ProjectSettings
     {
         private readonly WindowConfiguration windowConfiguration;
-
         public ProjectSettings(WindowConfiguration windowConfiguration)
         {
             this.windowConfiguration = windowConfiguration;
@@ -17,36 +17,28 @@ namespace Settings
         public void DefineWindow()
         {
             Console.SetWindowSize(windowConfiguration.Width, windowConfiguration.Height);
-            Console.SetBufferSize(windowConfiguration.Width, windowConfiguration.Height);
+            Console.SetBufferSize(150,50);
             FixWindowSize();
         }
 
-        public void FixWindowSize()
+        private void FixWindowSize()
         {
-            var task = new Task(async () => {
-                while (true)
+            var task = new Task(() =>
                 {
-                    if (Console.WindowWidth != windowConfiguration.Width)
+                    while (true)
                     {
-                        var kurci = new Action( () =>
+                        try
                         {
                             Console.SetWindowSize(windowConfiguration.Width, windowConfiguration.Height);
-                        });
-
-                        kurci.Invoke();
-                    }
-
-                    if (Console.WindowHeight != windowConfiguration.Height)
-                    {
-                        var kurciPalci = new Action(() =>
+                            Console.SetBufferSize(windowConfiguration.Width, windowConfiguration.Height);
+                            Thread.Sleep(2000);
+                        }
+                        catch(Exception ex)
                         {
-                            Console.SetWindowSize(windowConfiguration.Width, windowConfiguration.Height);
-                        });
 
-                        kurciPalci.Invoke();
+                        }
                     }
-                }                
-            });
+                });
 
             task.Start();
 

@@ -54,6 +54,10 @@
       <Project>{A0841EEA-DA2B-41E7-9301-914BE727AD49}</Project>
       <Name>GameCore</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Settings\Settings.csproj">
+      <Project>{D9422AA8-8298-4CC2-95A6-274ED8DAFF95}</Project>
+      <Name>Settings</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
