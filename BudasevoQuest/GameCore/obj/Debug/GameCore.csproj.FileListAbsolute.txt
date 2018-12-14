@@ -18,3 +18,5 @@ C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\GameCore\obj\Debug\Gam
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\GameCore\obj\Debug\GameCore.pdb
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\GameCore\bin\Debug\Settings1.dll
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\GameCore\bin\Debug\Settings1.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\Settings1.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\Settings1.pdb

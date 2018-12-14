@@ -24,3 +24,5 @@ C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\BudasevoDungeon\obj\De
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\BudasevoDungeon\obj\Debug\BudasevoDungeon.pdb
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\BudasevoDungeon\bin\Debug\Settings1.dll
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\BudasevoDungeon\bin\Debug\Settings1.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\bin\Debug\Settings1.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\BudasevoDungeon\bin\Debug\Settings1.pdb

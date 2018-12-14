@@ -4,3 +4,9 @@ C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\Settings1\obj\Debug\Se
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\Settings1\obj\Debug\Settings1.dll
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\Settings1\obj\Debug\Settings1.pdb
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\Settings1\obj\Debug\Settings.csprojAssemblyReference.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Settings1\bin\Debug\Settings1.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Settings1\bin\Debug\Settings1.pdb
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Settings1\obj\Debug\Settings.csprojAssemblyReference.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Settings1\obj\Debug\Settings.csproj.CoreCompileInputs.cache
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Settings1\obj\Debug\Settings1.dll
+C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\Settings1\obj\Debug\Settings1.pdb
