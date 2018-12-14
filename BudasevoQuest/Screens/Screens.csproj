@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CombatScreen.cs" />
     <Compile Include="MainMenu.cs" />
     <Compile Include="Screen.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

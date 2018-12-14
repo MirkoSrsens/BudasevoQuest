@@ -49,6 +49,10 @@
       <Project>{8E344245-D921-4C36-B14E-0C212BDDAD80}</Project>
       <Name>Screens</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Settings1\Settings.csproj">
+      <Project>{d9422aa8-8298-4cc2-95a6-274ed8daff95}</Project>
+      <Name>Settings</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

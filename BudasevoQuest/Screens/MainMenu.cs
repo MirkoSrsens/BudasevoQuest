@@ -10,7 +10,7 @@ namespace Screens
     {
         protected override void InitializeScreen()
         {
-            Console.WriteLine("----------------------------------------This is main menu screen----------------------------------------");
+            Console.WriteLine("------------------------------------This is main menu screen----------------------------------------");
         }
     }
 }
