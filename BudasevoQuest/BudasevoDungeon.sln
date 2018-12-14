@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Screens", "Screens\Screens.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameCore", "GameCore\GameCore.csproj", "{A0841EEA-DA2B-41E7-9301-914BE727AD49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Settings", "Settings1\Settings.csproj", "{D9422AA8-8298-4CC2-95A6-274ED8DAFF95}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{A0841EEA-DA2B-41E7-9301-914BE727AD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0841EEA-DA2B-41E7-9301-914BE727AD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0841EEA-DA2B-41E7-9301-914BE727AD49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9422AA8-8298-4CC2-95A6-274ED8DAFF95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9422AA8-8298-4CC2-95A6-274ED8DAFF95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9422AA8-8298-4CC2-95A6-274ED8DAFF95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9422AA8-8298-4CC2-95A6-274ED8DAFF95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

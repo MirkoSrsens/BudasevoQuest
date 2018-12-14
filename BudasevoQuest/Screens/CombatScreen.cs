@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace Screens
 {
-    public class MainMenu : Screen
+    public class CombatScreen : Screen
     {
+
         protected override void InitializeScreen()
         {
-            Console.WriteLine("------------------------------------This is main menu screen----------------------------------------");
+            Console.WriteLine("--------------------------------------This is combat screen-----------------------------------------");
         }
     }
 }
