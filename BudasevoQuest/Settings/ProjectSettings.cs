@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -17,7 +18,7 @@ namespace Settings
         public void DefineWindow()
         {
             Console.SetWindowSize(windowConfiguration.Width, windowConfiguration.Height);
-            Console.SetBufferSize(150,50);
+            Console.SetBufferSize(windowConfiguration.Width, windowConfiguration.Height);
             FixWindowSize();
         }
 
@@ -29,14 +30,14 @@ namespace Settings
                     {
                         try
                         {
+                            if (Console.WindowHeight == windowConfiguration.Height && Console.WindowWidth == windowConfiguration.Width) continue;
+                            Console.SetCursorPosition(0, 0);
                             Console.SetWindowSize(windowConfiguration.Width, windowConfiguration.Height);
                             Console.SetBufferSize(windowConfiguration.Width, windowConfiguration.Height);
                             Thread.Sleep(2000);
                         }
-                        catch(Exception ex)
-                        {
-
-                        }
+                        catch (IOException ex) { }
+                        catch (ArgumentOutOfRangeException) { }
                     }
                 });
 
