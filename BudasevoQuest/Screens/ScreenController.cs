@@ -1,4 +1,8 @@
-﻿namespace Screens
+﻿using System;
+using System.Threading;
+using System.Threading.Tasks;
+
+namespace Screens
 {
     public class ScreenController
     {
@@ -12,6 +16,15 @@
             if (activeScreen != null) newScreen.OnExit();
             activeScreen = newScreen;
             activeScreen.OnEnter();
+
+            new Task(() =>
+            {
+                while(true)
+                {
+                    Console.WriteLine("00000");
+                    Thread.Sleep(10);
+                }
+            });
         }
     }
 }
