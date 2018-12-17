@@ -10,3 +10,9 @@ C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\Screens\obj\Debug\Scre
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\Screens\obj\Debug\Screens.csproj.CoreCompileInputs.cache
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\Screens\obj\Debug\Screens.dll
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\Screens\obj\Debug\Screens.pdb
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\Screens\bin\Debug\Screens.dll
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\Screens\bin\Debug\Screens.pdb
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\Screens.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\Screens.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\Screens.dll
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\Screens\obj\Debug\Screens.pdb
