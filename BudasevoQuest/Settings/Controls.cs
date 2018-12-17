@@ -9,16 +9,20 @@ namespace Settings
 {
     public class Controls
     {
+        private static object Key = new object();
+
         public void Input()
         {
             var task = new Task( () =>
             {
-                while (true)
+                lock (Key)
                 {
-                    var key = Console.ReadKey();
-                    Console.WriteLine("Pressed key is {0}", key);
+                    while (true)
+                    {
+                        var key = Console.ReadKey().KeyChar;
+                        Console.WriteLine("Pressed key is {0}", key);
+                    }
                 }
-
             });
 
             task.Start();
