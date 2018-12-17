@@ -20,3 +20,14 @@ C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\GameCore\bin\Debug\Set
 C:\Users\Bruno\Desktop\BudasevoQuest-master\BudasevoQuest\GameCore\bin\Debug\Settings1.pdb
 C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\Settings1.dll
 C:\Users\Mirko\Documents\GitHub\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\Settings1.pdb
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\GameCore.dll
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\GameCore.pdb
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\Screens.dll
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\Settings1.dll
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\Screens.pdb
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\GameCore\bin\Debug\Settings1.pdb
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\GameCore\obj\Debug\GameCore.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\GameCore\obj\Debug\GameCore.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\GameCore\obj\Debug\GameCore.csproj.CopyComplete
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\GameCore\obj\Debug\GameCore.dll
+C:\Users\Bruno\Desktop\BudasevoQuest\BudasevoQuest\GameCore\obj\Debug\GameCore.pdb

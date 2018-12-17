@@ -15,6 +15,7 @@ namespace GameCore
         private CombatScreen combatScreen { get; set; }
         private ProjectSettings projectSettings { get; set; }
         private WindowConfiguration windowConfiguration { get; set; }
+        private Controls controls { get; set; }
 
         public GameInitializor()
         {
@@ -27,11 +28,13 @@ namespace GameCore
             this.projectSettings = new ProjectSettings(windowConfiguration);
             this.mainMenu = new MainMenu();
             this.combatScreen = new CombatScreen();
+            this.controls = new Controls();
         }
 
         public void StartGame()
         {
             projectSettings.DefineWindow();
+            controls.Input();
 
             Screen.controller.SwapScreen(mainMenu);
             Console.ReadKey();

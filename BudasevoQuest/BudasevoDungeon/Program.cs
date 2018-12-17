@@ -15,6 +15,7 @@ namespace BudasevoDungeon
             var game = new GameInitializor();
 
             game.StartGame();
+
         }
     }
 }
