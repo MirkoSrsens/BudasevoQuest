@@ -15,7 +15,7 @@ namespace Settings
             {
                 while (true)
                 {
-                    var key = Console.ReadKey();
+                    var key = Console.ReadKey().KeyChar;
                     Console.WriteLine("Pressed key is {0}", key);
                 }
 
